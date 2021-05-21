@@ -1,4 +1,4 @@
-package ng.org.knowit.chatty.Models;
+package ng.org.knowit.mqttchat.Models;
 
 import com.stfalcon.chatkit.commons.models.IUser;
 
@@ -27,6 +27,6 @@ public class User implements IUser {
 
     @Override
     public String getAvatar() {
-        return null;
+        return avatar;
     }
 }

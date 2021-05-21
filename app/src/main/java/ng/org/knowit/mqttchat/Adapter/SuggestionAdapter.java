@@ -1,4 +1,4 @@
-package ng.org.knowit.chatty.Adapter;
+package ng.org.knowit.mqttchat.Adapter;
 
 import android.content.Context;
 import android.util.Log;
@@ -13,7 +13,7 @@ import com.google.android.material.chip.Chip;
 
 import java.util.ArrayList;
 
-import ng.org.knowit.chatty.R;
+import ng.org.knowit.mqttchat.R;
 
 public class SuggestionAdapter extends RecyclerView.Adapter<SuggestionAdapter.SuggestionViewHolder> {
 

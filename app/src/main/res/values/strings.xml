@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Chatty</string>
+    <string name="app_name">MQTT-Chat</string>
+    <string name="notification_content">Sharing Location</string>
     <string name="error_string">Field must not be empty.</string>
 </resources>

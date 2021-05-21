@@ -1,4 +1,4 @@
-package ng.org.knowit.chatty;
+package ng.org.knowit.mqttchat;
 
 import org.junit.Test;
 

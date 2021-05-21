@@ -1,4 +1,4 @@
-package ng.org.knowit.chatty.Models;
+package ng.org.knowit.mqttchat.Models;
 
 import com.stfalcon.chatkit.commons.models.IMessage;
 import com.stfalcon.chatkit.commons.models.IUser;
